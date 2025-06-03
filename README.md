@@ -1,1 +1,2 @@
-# TASK-06
+ TASK-06
+The AI & ML internship focuses on implementing the K-Nearest Neighbors (KNN) algorithm for a classification problem. The objective is to understand how KNN works, including its reliance on instance-based learning and distance metrics like Euclidean distance. Interns are required to choose a classification dataset (such as the Iris dataset), normalize the feature values to ensure fair distance calculations, and use the KNeighborsClassifier from the scikit-learn library. They must experiment with different values of K to observe its effect on model performance, evaluate the model using accuracy and confusion matrix, and visualize the decision boundaries for better interpretation.
